@@ -3,7 +3,7 @@
 #Host forwarding: Host Port 10022 ->> QEMU Port 22 
 #Author: Siddhant Jajoo.
 #Host forwarding: Host Port 9000 ->> QEMU Port 9000 
-
+#Gemini : https://gemini.google.com/share/3418df44b55b
 
 qemu-system-aarch64 \
     -M virt  \
